@@ -1,4 +1,4 @@
-#!/usr/bn/env python3
+#!/usr/bin/env python3
 
 num1 = 5
 num2 = 10
